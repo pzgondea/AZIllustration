@@ -16,9 +16,13 @@ tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 
 lightgallery: true
+featuredImage: true
 ---
 
 ## aa ##
+
+{{< figure src="/lib/images/sm2.jpg" title="Lighthouse (figure)" >}}
+
 ![Minion](https://images.squarespace-cdn.com/content/v1/589ade5f17bffcb8cef7a6e6/1495703868022-4ONZSJBUK40GEYU7QQHC/MOON.jpg?format=500w)
 
 ![Minion](https://images.squarespace-cdn.com/content/v1/589ade5f17bffcb8cef7a6e6/1495703757852-JDFDZ6PRQT57XFAP2NQ2/12742357_1128309703870122_3032296666051398315_n%5B1%5D.jpg?format=200w)
