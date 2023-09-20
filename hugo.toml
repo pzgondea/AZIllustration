@@ -1,0 +1,4 @@
+baseURL = 'https://azillustration.com/'
+languageCode = 'en-us'
+title = 'Alexandra Zgondea Illustrations'
+theme = 'LoveIt'
