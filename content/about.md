@@ -1,6 +1,6 @@
 ---
 images:
-- /images/about.png
+- /images/sqsite/about.jpg
 title: about
 url: about
 hideTitle: true
@@ -8,98 +8,28 @@ hideExif: true
 hideDate: true
 ---
 
-<div align="center">
-	<p>
-        Alexandra Zgondea - Illustrator & graphic designer.
-	</p>
-	<p>
-		.
-	</p>
-</div>
 
-### Features
+### <center> [Alexandra Zgondea](https://alexandra.zgondea.com/) - Illustrator & graphic designer </center>
+&nbsp;
 
-- **Bla Bla Bla** features.
+As Dejan Stojanovic said **"My feelings are too loud for words and too shy for the world that’s why I choose to paint. I open the gates of my soul, and let the colors shape an image that would otherwise be hard to describe, hoping that a glimpse of it would make someone’s day brighter in some way.”**
 
-- **Multiple images** support.
+&nbsp;
 
-- Clean, fresh, **minimalist**.
+Alexandra Zgondea is a freelance graphic designer and illustrator from Romania. Having loved the creative visual arts since her earliest childhood, Alexandra attended Gh, Tattarescu High School of the Arts in her local town, specializing in decorative and mural painting. 
 
-- Integrated **lazy load**.
+ 
+After high school, Alexandra attended the National University of Arts in Bucharest,the Faculty of Decorative Arts and Design  where she graduated in 2007 with a BFA in graphic design. She worked for 3 years as a designer in Bucharest before deciding to move closer to nature in Brasov, Romania 
 
-- Automatically creates **resized** thumbnails.
+ 
 
-- Shows **exif** if it exists.
+She started to freelance as an illustrator and graphic designer, creating visual identities, designing marketing material, illustrations, web graphics for a variety of clients and industries and also painting, designing original artwork and custom made, hand painted objects such as wooden boxes and furniture.
 
-### Installation
+ 
 
-1. Install Hugo.
+After her son was born, in 2013 her style of art slowly shifted, as she became more focused on doing paintings and illustrations for enriching the lives of children. She has become deeply aware of the spiritual lessons of nature and how art can help teach people about the power of the natural world to improve their lives.
 
-2. Create a new site.  
-	```shell
-	hugo new site yoursite
-	```  
-	```shell
-	cd yoursite
-	```  
+ 
 
-3. Remove default config file.  
-	```shell
-	rm hugo.toml
-	```
-	If you use an older version of Hugo ([< v0.110.0](https://github.com/gohugoio/hugo/issues/8979)), your config might be called differently:
-	```shell
-	rm config.toml
-	```
+Alexandra works out of her home in Codlea, Romania, where she lives, surrounded by nature,  with her husband and son.
 
-4. Submodule the theme.  
-	```shell
-	git init
-	```  
-	```shell
-	git submodule add --depth=1 https://github.com/boratanrikulu/eternity.git themes/eternity
-	```  
-
-5. Create config.yaml;  
-	Apply (1) or (2).  
-
-	1. Use the example project (recommended).  
-		Copy all files from the example project.  
-		```shell
-		cp -r ./themes/eternity/example/eternity.bora.sh/* .
-		```  
-	2. Use empty content.  
-		Copy example config.  
-		```shell
-		cp ./themes/eternity/config.example.yaml ./config.yaml
-		```  
-6. Start the server.
-	```shell
-	hugo serve --port 1313
-	```  
-
-7. Go to [localhost:1313](http://localhost:1313).
-
-
-### Upgrade
-
-To get last updates, just git pull.
-```shell
-cd themes/eternity && git pull && cd -
-```
-
-### Usage of Posts
-
-[**Go to posts documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/posts.md)
-
-### Usage of Config.yaml
-
-[**Go to config documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/config.md)
-
-### Editing Style
-
-[**Go to style documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/style.md)
-
-### Contact
-
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).

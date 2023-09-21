@@ -63,7 +63,7 @@ menu:
       url: /work/
       weight: 1
     - name: children
-      url: /tags/people/
+      url: /tags/children/
       weight: 2
     - name: paintings
       url: /tags/nature/
