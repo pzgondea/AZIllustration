@@ -28,7 +28,7 @@ params:
       url: 'mailto:alexandra@zgondea.com'
       landing: true
     - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/pzgondea'
+      url: 'https://github.com/pzgondea/AZIllustration'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://www.instagram.com/azillustrations/?hl=en'
