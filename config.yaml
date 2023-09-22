@@ -66,10 +66,10 @@ menu:
       url: /tags/children/
       weight: 2
     - name: paintings
-      url: /tags/nature/
+      url: /tags/paintings/
       weight: 3
     - name: books
-      url: /tags/space/
+      url: /tags/books/
       weight: 4
     - name: about
       url: /about/
