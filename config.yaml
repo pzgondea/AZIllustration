@@ -71,9 +71,12 @@ menu:
     - name: books
       url: /tags/books/
       weight: 4
+    - name: past
+      url: /tags/past/
+      weight: 5  
     - name: about
       url: /about/
-      weight: 5
+      weight: 6
     - name: archive
       url: /tags/archive/
-      weight: 6
+      weight: 7
